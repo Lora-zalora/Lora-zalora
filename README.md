@@ -4,7 +4,7 @@
 
 <h2 align="center">Offcial Github Lora zalora Mod</h2>
 <br/><br/>
- <marquee><b>nEWbiEW mODDER ApplicatION</b></marquee>
+<b>nEWbiEW mODDER ApplicatION</b>
  
   
 My Social WebSite And Other:
