@@ -3,10 +3,9 @@
 </p>
 
 <h2 align="center">Offcial Github Lora zalora Mod</h2>
-<br/><br/>
+
 <b>nEWbiEW mODDER ApplicatION</b>
  
-  
 My Social WebSite And Other:
 
 [![Discord](https://img.shields.io/discord/789099021624934432?label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/rmKCrkEuyK)
