@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://piin.dev"><img src="https://yt3.ggpht.com/ytc/AAUvwnj0KX4KY6tuNjpjkIWjbChWGcKnFc5z86tUITEI=s900-c-k-c0x00ffffff-no-rj" width="100" height="100"/></a>
+  <a href="https://lorazalora.com"><img src="https://yt3.ggpht.com/ytc/AAUvwnj0KX4KY6tuNjpjkIWjbChWGcKnFc5z86tUITEI=s900-c-k-c0x00ffffff-no-rj" width="100" height="100"/></a>
 </p>
 
 <h2 align="center">Offcial Github Lora zalora Mod</h2>
 <br/><br/>
- <marquee><b>nEWbiEW mODDER ApplicatION<b/><marquee/>
+ <marquee><b>nEWbiEW mODDER ApplicatION</b></marquee>
  
   
 My Social WebSite And Other:
