@@ -2,25 +2,16 @@
   <a href="https://piin.dev"><img src="https://yt3.ggpht.com/ytc/AAUvwnj0KX4KY6tuNjpjkIWjbChWGcKnFc5z86tUITEI=s900-c-k-c0x00ffffff-no-rj" width="100" height="100"/></a>
 </p>
 
-<h2 align="center">I'm Octowolve. Also known as Silence (back from the Call of Mini Infinity days and my YouTube channel)</h2>
+<h2 align="center">Offcial Github Lora zalora Mod)</h2>
 <br/><br/>
-I'm a game hacker and programmer for android. I love to share my work and help others to learn the same.
-I have a small forum where I will post more and more tutorials about android game hacking.
-
-I'm currently working on making game hacking for android as easy as possible via detailed tutorials. Alot of stuff for android is "secret" and "shouldn't be shared".
-But I think knowledge should be free and easily accessible everywhere by everyone, that's why I started this small forum, to help and teach others android game hacking.
-
-I'm always looking for people that are interested in writing some tutorials too. If you are interested and want to share your knowledge consider joining my forum and help me making the introduction to android and/or iOS game hacking as easy as possible to others.
-
-You can reach out to me via my forum or my discord server.
+ 
+ nEWbiEW mODDER ApplicatION
+ 
+My Social WebSite And Other:
 
 [![Discord](https://img.shields.io/discord/789099021624934432?label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/rmKCrkEuyK)
 [![Crates.io](https://img.shields.io/crates/v/Telegram?label=telegram&logo=Telegram&style=for-the-badge)](https://t.me/Lorazalorach)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCY0gekr85Gml5Kt7c1XSmfg?color=hijau&label=Subscribe&logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCY0gekr85Gml5Kt7c1XSmfg)
-
-You can also find me here:
-
-[GuidedHacking](https://guidedhacking.com/members/octowolve.114209/)
 
 My github stats:
 
