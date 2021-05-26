@@ -24,11 +24,11 @@ You can also find me here:
 
 My github stats:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Octowolve&theme=dark" alt="octowolve" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lora-zalora&theme=dark" alt="Lora-zalora" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Octowolve&layout=compact" alt="octowolve-langs" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lora-zalora&layout=compact" alt="Lora-zalora-langs" /></p>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Octowolve&color=red&style=flat-square)
+![Profile views counter](https://komarev.com/ghpvc/?username=Lora-zalora&color=red&style=flat-square)
 <!--
 **Octowolve/Octowolve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
