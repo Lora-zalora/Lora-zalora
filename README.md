@@ -15,7 +15,7 @@ I'm always looking for people that are interested in writing some tutorials too.
 You can reach out to me via my forum or my discord server.
 
 [![Discord](https://img.shields.io/discord/720937884814671923?color=%237289DA&logo=discord&logoColor=%23fff&style=for-the-badge)](https://discord.gg/rmKCrkEuyK)
-[![PIIN](https://img.shields.io/crates/v/Lora?label=Telegram&server=https%3A%2F%2Fpiin.dev&style=for-the-badge)](https://t.me/Lorazalorach)
+[![PIIN](https://img.shields.io/crates/v/Lora?label=Telegram&https://t.me/Lorazalorach)](https://t.me/Lorazalorach)
 
 You can also find me here:
 
